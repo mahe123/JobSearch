@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoMaTellerMachine", "AutoMaTellerMachine\AutoMaTellerMachine.csproj", "{39AC3BED-80AC-46DD-9160-6AE6AD70D070}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoMaTellerMachine.Tests", "AutoMaTellerMachine.Tests\AutoMaTellerMachine.Tests.csproj", "{0D211B8B-D72C-4F9C-8E24-63B43C61520A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39AC3BED-80AC-46DD-9160-6AE6AD70D070}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39AC3BED-80AC-46DD-9160-6AE6AD70D070}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39AC3BED-80AC-46DD-9160-6AE6AD70D070}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39AC3BED-80AC-46DD-9160-6AE6AD70D070}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D211B8B-D72C-4F9C-8E24-63B43C61520A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D211B8B-D72C-4F9C-8E24-63B43C61520A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D211B8B-D72C-4F9C-8E24-63B43C61520A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D211B8B-D72C-4F9C-8E24-63B43C61520A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
